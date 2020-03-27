@@ -1,3 +1,5 @@
 *.pyc
 *.png
 
+.vscode/settings.json
+examples/hl_lhc_scenarios.tsv
